@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">tablayout</string>
+    <string-array name="Addfood_time">
+        <item>早</item>
+        <item>中</item>
+        <item>晚</item>
+    </string-array>
+    <string-array name="Addfood_location">
+        <item>靜園</item>
+        <item>宜園</item>
+        <item>至善</item>
+    </string-array>
+    <string-array name="Addfood_restaurant_one">
+        <item>極寶</item>
+        <item>白鬍子</item>
+    </string-array>
+    <string-array name="Addfood_restaurant_two">
+        <item>藍卡</item>
+        <item>聖明自助餐</item>
+    </string-array>
+    <string-array name="Addfood_restaurant_three">
+        <item>Yami快餐</item>
+    </string-array>
+
+</resources>
